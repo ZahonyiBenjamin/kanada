@@ -1,0 +1,33 @@
+body{
+    font-size: 20px;
+    background-image: url(/kepek/hatter.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.varos_nevek{
+    font-weight: bold;
+    text-align: center;
+    margin: 3px;
+    font-size: 130%;
+}
+
+.varos_kepek{
+    height: 300px;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+
+.varos_kepek:hover{
+    filter: brightness(115%);
+}
+
+#varos_cim{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
