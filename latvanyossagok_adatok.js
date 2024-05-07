@@ -4,14 +4,14 @@ latvanyossagok = [
     "tipus": "Vízesés",
     "hely": "Ontario",
     "leiras": "A Niagara-vízesés a világ egyik legismertebb természeti csodája. Az Egyesült Államok és Kanada határán fekszik, és lenyűgöző látványt nyújt.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Niagara_Falls_2009.jpg/800px-Niagara_Falls_2009.jpg"
+    "kep": "https://blog.repjegy.hu/wp-content/uploads/2021/08/niagara_vizeses_fejleckep-770x490.jpg"
   },
   {
     "nev": "Rocky-hegység",
     "tipus": "Hegység",
     "hely": "Alberta, Brit Kolumbia",
     "leiras": "A Rocky-hegység lenyűgöző hegységekkel, gleccserekkel és turistaösvényekkel rendelkezik. Számos outdoor tevékenységet kínál, például túrázást, síelést és hegymászást.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moraine_Lake_17092005.jpg/800px-Moraine_Lake_17092005.jpg"
+    "kep": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lake_Minnewanka_11092005.jpg"
   },
   {
     "nev": "Banff Nemzeti Park",
