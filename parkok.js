@@ -4,6 +4,7 @@ for (const item of latvanyossagok)
 {
     if (item.tipus == "Nemzeti park")
     {
+        /*
         park.innerHTML += `
         <button class="park_gomb" data-bs-toggle="collapse" data-bs-target="#park${i}">${item.nev}</button>
         <div id="park${i}" class="collapse park_dobozok">
@@ -14,6 +15,16 @@ for (const item of latvanyossagok)
         </div>
         <br>
         `
+        i++
+        */
+        if (i != 0)
+        {
+            document.getElementById("car_belso").innerHTML += `
+            <div class="carousel-item">
+                <img src="${item.kep}" alt="${item.kep}" class="d-block w-100">
+            </div>` 
+        }
+
         i++
     }
 }
