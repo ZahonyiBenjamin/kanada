@@ -18,21 +18,21 @@ latvanyossagok = [
     "tipus": "Nemzeti park",
     "hely": "Alberta",
     "leiras": "A Banff Nemzeti Park az egyik legrégebbi és legszebb nemzeti park Kanadában. Lenyűgöző hegyek, türkizkék tavak és gazdag vadvilág jellemzi.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Banff-Nationalpark_-_Moraine_Lake.jpg/800px-Banff-Nationalpark_-_Moraine_Lake.jpg"
+    "kep": "https://timesofindia.indiatimes.com/photo/55704503.cms"
   },
   {
     "nev": "Jasper Nemzeti Park",
     "tipus": "Nemzeti park",
     "hely": "Alberta",
     "leiras": "A Jasper Nemzeti Park az UNESCO Világörökség része, és a Rocky-hegységben található. Gyönyörű tavak, gleccserek és vadon élő állatok otthona.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mount_Fryatt_-_Jasper_National_Park_-_Alberta_-_Canada_-_02.jpg/800px-Mount_Fryatt_-_Jasper_National_Park_-_Alberta_-_Canada_-_02.jpg"
+    "kep": "https://themilepost.com/wp-content/uploads/2022/05/canada-gf4decc228_1920.jpg"
   },
   {
     "nev": "Yoho Nemzeti Park",
     "tipus": "Nemzeti park",
     "hely": "Brit Kolumbia",
     "leiras": "A Yoho Nemzeti Park lenyűgöző hegyi tájakkal, vízesésekkel és barlangokkal rendelkezik. A Burgess Shale egyedülálló őskori fosszíliákat tartalmaz.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Yoho_National_Park%2C_British_Columbia%2C_Canada_%284148400293%29.jpg/800px-Yoho_National_Park%2C_British_Columbia%2C_Canada_%284148400293%29.jpg"
+    "kep": "https://nationalparks-15bc7.kxcdn.com/images/parks/yoho/Yoho%20National%20Park%20lake%20ohara.jpg"
   },
   {
     "nev": "Whistler",
@@ -46,27 +46,27 @@ latvanyossagok = [
     "tipus": "Nemzeti park",
     "hely": "Új-Fundland",
     "leiras": "A Gros Morne Nemzeti Park lenyűgöző partvidékkel, fjordokkal és hegycsúcsokkal rendelkezik. Az UNESCO Világörökség része.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gros_Morne_Mountain.JPG/800px-Gros_Morne_Mountain.JPG"
+    "kep": "https://s1.it.atcdn.net/wp-content/uploads/2023/12/HEROGros-Morne-1.jpg"
   },
   {
     "nev": "Nahanni Nemzeti Park",
     "tipus": "Nemzeti park",
     "hely": "Északnyugat-terület",
     "leiras": "A Nahanni Nemzeti Park a világ egyik legszebb és legvadregényesebb területe. Vízesések, kanyonok és vadon élő állatok jellemzik.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Nahanni_national_park_%28Canada%29.jpg/800px-Nahanni_national_park_%28Canada%29.jpg"
-  },
-  {
-    "nev": "CN Tornya",
-    "tipus": "Világítótorony",
-    "hely": "Toronto",
-    "leiras": "A CN Tornya Toronto egyik legismertebb jelképe. A kilátóteraszról lenyűgöző kilátás nyílik a városra és a tóra.",
-    "kep": "https://a.cdn-hotels.com/gdcs/production175/d1863/601426b3-ae2b-4264-8437-84985f33e5b0.jpg"
-  },
-  {
-    "nev": "Churchill",
-    "tipus": "Állatmegfigyelés",
-    "hely": "Manitoba",
-    "leiras": "Churchill Manitoba északi részén található és a jeges medvék megfigyelésének egyik legjobb helyszíne a világon. Ezenkívül itt lehetőség van a sarki rókák és a tengeri emlősök megfigyelésére is.",
-    "kep": "https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/MB_Explore-Churchill-Pass_1250x560_Generic-Header_5a02da0fbc799ade054813c4a8915839.jpg"
-  }
-]
+      "kep": "https://specnwt.s3.ca-central-1.amazonaws.com/wp-content/uploads/2023/09/09200840/main-image_0.jpg"
+    },
+    {
+      "nev": "CN Tornya",
+      "tipus": "Világítótorony",
+      "hely": "Toronto",
+      "leiras": "A CN Tornya Toronto egyik legismertebb jelképe. A kilátóteraszról lenyűgöző kilátás nyílik a városra és a tóra.",
+      "kep": "https://a.cdn-hotels.com/gdcs/production175/d1863/601426b3-ae2b-4264-8437-84985f33e5b0.jpg"
+    },
+    {
+      "nev": "Churchill",
+      "tipus": "Állatmegfigyelés",
+      "hely": "Manitoba",
+      "leiras": "Churchill Manitoba északi részén található és a jeges medvék megfigyelésének egyik legjobb helyszíne a világon. Ezenkívül itt lehetőség van a sarki rókák és a tengeri emlősök megfigyelésére is.",
+      "kep": "https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/MB_Explore-Churchill-Pass_1250x560_Generic-Header_5a02da0fbc799ade054813c4a8915839.jpg"
+    }
+  ]
