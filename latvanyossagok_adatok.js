@@ -39,7 +39,7 @@ latvanyossagok = [
     "tipus": "Síparadicsom",
     "hely": "Brit Kolumbia",
     "leiras": "Whistler Kanada egyik legnépszerűbb síparadicsoma. Nyáron is sok outdoor tevékenységet kínál, mint például túrázást és mountain bike-ozást.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Whistler_%2816726280317%29.jpg/800px-Whistler_%2816726280317%29.jpg"
+    "kep": "https://media.lmpm.website/uploads/sites/74/2018/12/I_Blackcomb_Dusk_1-scaled.jpg"
   },
   {
     "nev": "Gros Morne Nemzeti Park",
@@ -60,13 +60,13 @@ latvanyossagok = [
     "tipus": "Világítótorony",
     "hely": "Toronto",
     "leiras": "A CN Tornya Toronto egyik legismertebb jelképe. A kilátóteraszról lenyűgöző kilátás nyílik a városra és a tóra.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/CN_Tower_at_sunset.jpg/800px-CN_Tower_at_sunset.jpg"
+    "kep": "https://a.cdn-hotels.com/gdcs/production175/d1863/601426b3-ae2b-4264-8437-84985f33e5b0.jpg"
   },
   {
     "nev": "Churchill",
     "tipus": "Állatmegfigyelés",
     "hely": "Manitoba",
     "leiras": "Churchill Manitoba északi részén található és a jeges medvék megfigyelésének egyik legjobb helyszíne a világon. Ezenkívül itt lehetőség van a sarki rókák és a tengeri emlősök megfigyelésére is.",
-    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Churchill_polar_bears_%2825455784409%29.jpg/800px-Churchill_polar_bears_%2825455784409%29.jpg"
+    "kep": "https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/MB_Explore-Churchill-Pass_1250x560_Generic-Header_5a02da0fbc799ade054813c4a8915839.jpg"
   }
 ]
