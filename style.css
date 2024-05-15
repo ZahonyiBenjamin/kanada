@@ -128,7 +128,7 @@ max-height: 100%;
     text-align: center;
     width: 300px;
     padding: 10px;
-    overflow:hidden
+    border: 1px solid black;
 }
 
 #szemelyek_lista:hover{
@@ -137,4 +137,41 @@ max-height: 100%;
 
 .lista_elemek{
     background-color: white;
+}
+
+table, tr, td, th{
+    border: 3px solid black;
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+tr, td, th{
+    padding: 20px;
+    font-size: 25px;
+}
+
+#tabla{
+    margin: 30px auto;
+    width: 1700px;
+}
+
+.etel_nevek{
+    text-align: center;
+    font-weight: bold;
+}
+
+th{
+    text-align: center;
+    background-color: rgba(228, 98, 98, 0.5);
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+
+.etel_kepek{
+    width: 5000px;
+    border-radius: 30px;
+}
+
+.receptek{
+    width: 500px;
 }
