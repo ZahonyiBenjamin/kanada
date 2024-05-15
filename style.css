@@ -33,11 +33,11 @@ body{
     letter-spacing: 3px;
 }
 
-#latvanyossagok, #parkok{
+#latvanyossagok{
     text-align: center;
 }
 
-.latv_gomb, .park_gomb{
+.latv_gomb{
     margin: 10px;
     padding: 20px;
     font-size: 30px;
@@ -46,11 +46,11 @@ body{
     width: 500px;
 }
 
-.latv_gomb:hover, .park_gomb:hover{
+.latv_gomb:hover{
     background-color: rgb(245, 95, 95);
 }
 
-.latv_dobozok, .park_dobozok{
+.latv_dobozok{
     background-color: rgba(255, 128, 128, 0.5);
     width: 1000px;
     display: block;
@@ -61,8 +61,21 @@ body{
     font-size: 120%;
 }
 
-.latv_kepek, .park_kepek{
+.latv_kepek{
     width: 800px;
     border-radius: 30px;
     border: 3px solid black;
+}
+
+.park_kepek
+{
+    width: 400px;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+
+#parkok{
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
 }
