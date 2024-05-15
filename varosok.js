@@ -2,7 +2,7 @@ let varos_index = 0
 for (const item of varosok)
 {
     document.getElementById("varosok_doboz").innerHTML += `
-    <div class="col-4">
+    <div class="col-lg-4 col-md-6">
         <p class="varos_nevek">${item.nev}</p>
         <img type="button" src="${item.kep}" alt="${item.kep}" title="${item.nev}" class="img-fluid varos_kepek" data-bs-toggle="modal" data-bs-target="#myModal" onclick="modal_csere(${varos_index})">
     </div>`
