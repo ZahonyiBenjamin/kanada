@@ -13,7 +13,9 @@ function valtoztat()
 {
     let index = szemelyek_lista.value
     document.getElementById("szemelyek_doboz").innerHTML = `
-    <h2>${szemelyek[index].ismertseg}</h2>
+    <h2 class="szemely_foglalkozas">${szemelyek[index].foglalkozas}</h2>
+    <p class="szemely_leiras">${szemelyek[index].ismertseg}</p>
+    <img src="${szemelyek[index].kep}" alt="${szemelyek[index].kep}" title="${szemelyek[index].nev}" class="szemelyek_kepek img-fluid">
     `
 }
 
