@@ -5,7 +5,7 @@ let i = 0
 for (const item of szemelyek)
 {
     szemelyek_lista.innerHTML += `
-    <option value="${i}">${item.nev}</option>`
+    <option value="${i}" class="lista_elemek">${item.nev}</option>`
     i++
 }
 
@@ -13,7 +13,7 @@ function valtoztat()
 {
     let index = szemelyek_lista.value
     document.getElementById("szemelyek_doboz").innerHTML = `
-    <h2>${szemelyek[index].foglalkozas}</h2>
+    <h2>${szemelyek[index].ismertseg}</h2>
     `
 }
 
